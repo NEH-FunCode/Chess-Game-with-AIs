@@ -4,6 +4,7 @@ I retrieved a simple chess game in Python on internet, implementing chess rules.
 Dependencies :
 
 pygame
+
 pygame-menu
 
 Just run the main.py file.
