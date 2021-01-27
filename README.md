@@ -1,5 +1,5 @@
 # Chess Game with some IAs
-I retrieved a simple chess game in Python on internet, implementing chess rules. I added IAs (level easy : AI makes random moves, level medium : mixmax strategy with low depth, level hard : improvment of the minmax strategy, called alphabeta), graphical features and tried to reorganise the code.
+I retrieved a simple chess game in Python on internet, implementing chess rules. I added IAs (level easy : AI makes random moves, level medium : minmax strategy with low depth, level hard : improvment of the minmax strategy, called alphabeta), graphical features and tried to reorganise the code.
 
 Dependencies :
 
